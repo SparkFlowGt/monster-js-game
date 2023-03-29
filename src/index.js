@@ -4,7 +4,7 @@ import Enemies from './enemies';
 var config = {
     type: Phaser.AUTO,
     parent: 'phaser-example',
-    width: 800,
+    width: 1000,
     height: 600,
     physics:{
         default:"arcade",

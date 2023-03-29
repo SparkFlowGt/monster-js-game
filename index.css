@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1{
+    margin:20px;
+     
+    color:white;
+    text-align:center;
+}
+p{
+    margin:20px;
+    color:white;
+    text-align:center;
+}
