@@ -1,4 +1,4 @@
-import Enemy from "./Enemy"
+import Enemy from "./enemy"
 
 class Enemies extends Phaser.Physics.Arcade.Group {
     constructor(world, scene, children, spriteArray) {
